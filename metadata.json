@@ -1,0 +1,5 @@
+{
+  "name": "Personal Shopping List Manager",
+  "description": "A complete React-based shopping list application with Firebase authentication and real-time Firestore database for managing personal shopping lists and product totals.",
+  "requestFramePermissions": []
+}
